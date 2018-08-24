@@ -1,0 +1,112 @@
+
+
+Basic commands:
+
+  man - get help
+
+  file - what kind a file is this?
+
+
+maneuver current location in file system
+
+  ls - list files in current (or other) directory
+
+  pwd - where am I now?
+
+  cd - change current directory
+
+  mkdir - make directory (that doesn't exist)
+
+  rmdir - remove directory
+
+  cp - copy file
+
+  mv - move (or copy) file
+
+  rm - remove file
+
+  touch - create file (or update metadata for a file that already exists)
+
+
+display file info
+
+  wc - word count
+
+  nl - number lines
+
+
+display text files
+
+  cat - show an entire file
+
+  less - show an entire file, page delimited by user input
+
+  head - show beginning n lines of a file, default 10
+
+  tail - show ending n lines of a file, default 10
+
+
+display mutated text files
+
+  sort - show files sorted (default alphabetical) by line
+
+  sed - file-wide find and replace string
+
+  cut - 
+
+  uniq - show only unique lines
+
+  tac - show entire file in reverse line order (cat backwards)
+
+
+Process commands
+
+  top
+
+  ps
+
+  kill
+
+  jobs
+
+  fg
+
+  crtl+z/bg
+
+
+Steam direction
+
+
+  > direct output to a file instead of stdout
+
+  < input data from a file instead of stdin
+
+  >> concatenate output to the end an existing file
+
+  | direct the output from one command to be the input to another
+
+
+
+Advanced capabilities
+
+  grep
+
+  awk
+
+  diff
+
+  regex
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
